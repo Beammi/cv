@@ -1,0 +1,28 @@
+body{
+  background-color: #FAF3F3;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: #DA7F8F;
+}
+h1{
+  color: #DA7F8F;
+}
+
+h3{
+  color: #6886C5;
+}
+
+.circular{
+  border-radius: 100%
+}
+
+.changeFontColor:hover{
+  color: #F25287;
+}
+thead{
+  color: #93B5C6;
+}
